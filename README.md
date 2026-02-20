@@ -71,7 +71,3 @@ Outros interesses
 - LinkedIn: https://www.linkedin.com/in/asantana8/
 
 Se quiser trocar ideia sobre arquitetura, Azure, projetos side ou qualquer coisa relacionada a dev, é só chamar.
-
-- LinkedIn: https://www.linkedin.com/in/asantana8/
-
-Se quiser trocar ideia sobre arquitetura, Azure, projetos side ou qualquer coisa relacionada a dev, é só chamar.
