@@ -14,7 +14,7 @@ Estou como Arquiteto de Software, mas corre sangue dev nas minhas veias, curioso
 
 ---
 ## Tecnologias que Uso Diariamente
-
+![Minhas Tecnologias](https://github.com/asantana8/asantana8/blob/main/Gest%C3%A3o_Tecnol%C3%B3gica_de_Precat%C3%B3rios_Federais.png?raw=true)
 
 ## Projetos em destaque ⚡
 
