@@ -1,6 +1,6 @@
 # Olá, eu sou o Adriano 👋
 
-Sou desenvolvedor de software, curioso por natureza e sempre mexendo com alguma ideia nova em cloud, backend ou IA.  
+Estou como Arquiteto de Software, mas corre sangue dev nas minhas veias, curioso por natureza e sempre mexendo com alguma ideia nova em cloud, backend ou IA.  
 Gosto de transformar estudos e experimentos em projetos reais, mesmo que comecem como “só um testezinho”.
 
 ---
