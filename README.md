@@ -1,7 +1,6 @@
 # Olá, eu sou o Adriano 👋
 
-Estou como Arquiteto de Software, mas corre sangue dev nas minhas veias, curioso por natureza e sempre mexendo com alguma ideia nova em cloud, backend ou IA.  
-Gosto de transformar estudos e experimentos em projetos reais, mesmo que comecem como “só um testezinho”.
+Estou como Arquiteto de Software, mas corre sangue dev nas minhas veias, curioso por natureza e sempre mexendo com alguma ideia nova em cloud, backend ou IA. Gosto de transformar estudos e experimentos em projetos reais, mesmo que comecem como “só um testezinho”.
 
 ---
 
@@ -14,6 +13,8 @@ Gosto de transformar estudos e experimentos em projetos reais, mesmo que comecem
 - Gosto de explorar como IA pode ajudar no dia a dia do dev (desde automação até ideias de arquitetura).
 
 ---
+## Tecnologias que Uso Diariamente
+
 
 ## Projetos em destaque ⚡
 
