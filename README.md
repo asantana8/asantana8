@@ -5,8 +5,8 @@ Estou como Arquiteto de Software, mas corre sangue dev nas minhas veias, curioso
 ---
 
 ## Sobre mim 💬
-
-- Trabalho principalmente com C# (.NET) e Java, focado em APIs, microsserviços e integrações.
+- Atualmente totalmente dedicado a criação do novo serviço de gestão de precatórios do TRF5 :-)
+- Trabalho principalmente com Java, Spring Boot, C# (.NET), ASP.NET e Angular, focado em APIs, microsserviços e integrações.
 - Tenho bastante interesse em arquitetura cloud-native usando Azure.
 - Curto boas práticas de código, clean code, padrões de projeto e tudo que deixa o código mais legível e fácil de manter.
 - Vivo fazendo labs, desafios e pequenos projetos para aprender algo novo.
@@ -16,7 +16,7 @@ Estou como Arquiteto de Software, mas corre sangue dev nas minhas veias, curioso
 ## Tecnologias que Uso Diariamente
 ![Minhas Tecnologias](https://github.com/asantana8/asantana8/blob/main/Gest%C3%A3o_Tecnol%C3%B3gica_de_Precat%C3%B3rios_Federais.png?raw=true)
 
-## Projetos em destaque ⚡
+## Projetos (pessoais) em destaque ⚡
 
 - rentcar-cloudazure  
   Aplicação de aluguel de carros pensada para rodar totalmente na nuvem, usando recursos da Azure e conceitos de arquitetura cloud-native.
