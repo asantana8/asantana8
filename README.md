@@ -1,3 +1,46 @@
+# Hi there, I'm Alex Santana 👋
+### AI Systems Architect | Agent Engineer | Software Engineering Lead
+
+I specialize in **AI-Assisted Software Architecture**, **Context Window Optimization**, and **Autonomous Agent Governance**. I bridge strategic domain knowledge with tactical code execution using modern LLM frameworks, RAG pipelines, and multi-agent workflows.
+
+---
+
+### 🚀 Key Focus Areas
+
+- 🤖 **AI-Assisted Agile Methodology:** Pioneer of the *Orchestrator Architect* paradigm, separating high-level strategic reasoning from IDE-level code execution.
+- 🧹 **Context Sanitization & Optimization:** Building tools to strip secrets, sanitize enterprise codebases, and reduce token consumption by up to 80%.
+- 📐 **Agent Governance:** Crafting deterministic `SKILL.md` specifications, `AGENTS.md` guidelines, and `.copilotignore` rules for Claude Code, Cursor, Windsurf, and Copilot.
+- ⚡ **Tech Stack:** Java / Spring Boot, TypeScript / Angular, Python, PostgreSQL, RabbitMQ, LLMs & RAG.
+
+---
+
+### 🛠️ Featured AI Agent Skills & Tools
+
+- 📦 **[Enterprise Codebase Sanitizer & Context Architect](https://github.com/asantana8)**: A production-ready `SKILL.md` suite for sanitizing enterprise repos and setting up multi-agent governance.
+
+---
+
+### 📊 Tech Stack & Tools
+
+![Java]([suspicious link removed])
+![Spring]([suspicious link removed])
+![TypeScript]([suspicious link removed])
+![Angular]([suspicious link removed])
+![Python]([suspicious link removed])
+![PostgreSQL]([suspicious link removed])
+![Docker]([suspicious link removed])
+
+---
+
+### 📫 Connect with Me
+
+- 💼 **LinkedIn:** [[suspicious link removed]]([suspicious link removed])
+- 🐙 **GitHub:** [github.com/asantana8](https://github.com/asantana8)
+
+---
+*“Shifting engineering focus from writing boilerplate lines to orchestrating intelligent agentic workflows.”*
+
+
 # Olá, eu sou o Adriano 👋
 
 Estou como Arquiteto de Software, mas corre sangue dev nas minhas veias, curioso por natureza e sempre mexendo com alguma ideia nova em cloud, backend ou IA. Gosto de transformar estudos e experimentos em projetos reais, mesmo que comecem como “só um testezinho”.
