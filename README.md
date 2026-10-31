@@ -1,7 +1,7 @@
 # Hi there, I'm Adriano Santana 👋
 ### AI Systems Architect | Agent Engineer | Software Engineering Lead
 
-I specialize in **AI-Assisted Software Architecture**, **Context Window Optimization**, and **Autonomous Agent Governance**. I bridge strategic domain knowledge with tactical code execution using modern LLM frameworks, RAG pipelines, and multi-agent workflows.
+I specialize in **AI-Assisted Software Architecture**, Context Window Optimization, and Autonomous Agent Governance. Creator of the Orchestrator Architect framework and production-ready SKILL.md suites, I bridge strategic domain knowledge with tactical code execution using modern LLMs, RAG pipelines, and multi-agent workflows. I build tools that help dev teams scale AI productivity with enterprise-grade security.
 
 ---
 
