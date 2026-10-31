@@ -34,8 +34,8 @@ I specialize in **AI-Assisted Software Architecture**, **Context Window Optimiza
 
 ### 📫 Connect with Me
 
-- 💼 **LinkedIn:** [[suspicious link removed]]([suspicious link removed])
-- 🐙 **GitHub:** [github.com/asantana8](https://github.com/asantana8)
+- 💼 **LinkedIn:** https://www.linkedin.com/in/asantana8/
+- 🐙 **GitHub:** github.com/asantana8
 
 ---
 *“Shifting engineering focus from writing boilerplate lines to orchestrating intelligent agentic workflows.”*
