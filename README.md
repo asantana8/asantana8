@@ -4,6 +4,8 @@
 I specialize in **AI-Assisted Software Architecture**, Context Window Optimization, and Autonomous Agent Governance. Creator of the Orchestrator Architect framework and production-ready SKILL.md suites, I bridge strategic domain knowledge with tactical code execution using modern LLMs, RAG pipelines, and multi-agent workflows. I build tools that help dev teams scale AI productivity with enterprise-grade security.
 
 ---
+https://asantana3.gumroad.com/l/codebase-sanitizer-ai-notebooklm
+---
 
 ### 🚀 Key Focus Areas
 
